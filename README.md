@@ -43,9 +43,9 @@
 ---
 
 ## Reflection  
-**Unlikely Heroes** pushed me to balance complex resource management mechanics with smooth character switching and combat. The challenges of AI pathfinding, shield energy management, and dynamic difficulty scaling helped me refine my gameplay engineering skills while working within the constraints of the jam.
+**Unlikely Heroes** pushed me to design and implement a turn-based combat system that emphasized strategic decision-making and smooth character switching. The challenge of creating enemy AI behavior, handling combat turn flow, and ensuring balanced character abilities refined my gameplay programming skills. By focusing on creating engaging and dynamic combat encounters within the jam’s constraints, I was able to enhance my ability to craft enjoyable turn-based mechanics that provide both challenge and player agency.
 
 ---
 
 ## Play the Game  
-[Play Unlikely Heroes on Itch.io](#)
+[Play Unlikely Heroes on Itch.io](https://aftertheraingames.itch.io/unlikely-heroes)

@@ -1,10 +1,9 @@
 # Unlikely Heroes  
 **Game Jam Submission**  
-*DEFENSE Theme | Limitation: Only 1 Resource | February 20-22, 2025*
+*MONSTERS Theme | Limitation: Everything is Alive | February 13-16, 2025*
 
 ## Overview  
-**Unlikely Heroes** challenges the defense genre by letting players embody different heroes, each with unique abilities, as they defend against waves of monsters. Players must strategically manage a shared resource to activate shields, power abilities, and defeat enemies while navigating through dynamic environments.  
-
+**Unlikely Heroes** challenges the turn based combat genre by letting players embody different heroes, each with unique abilities, as they defend against waves of monsters. 
 ---
 
 ## Key Contributions as a Gameplay Engineer  

@@ -12,29 +12,20 @@
 ### **Character Selection and Switching**  
   - Developed a character rotation system, allowing players to switch between heroes (bunny, pink, drag, wiz) with unique abilities and appearance.  
 
-### **Pathfinding and Movement**  
-  - Programmed an AI-driven pathfinding system for monsters, ensuring they follow the correct paths and interact with obstacles in the game world.  
-  - Designed smooth movement transitions for both the player characters and enemies, reducing collision issues.
-
 ### **Combat Mechanics and Shield System**  
-  - Implemented dynamic combat mechanics for heroes, including abilities tied to a shared resource (shield energy).  
-  - Created a shield mechanic that allows the player to block attacks, with energy consumption based on shield usage.  
+  - Implemented dynamic combat mechanics for heroes, including support, defensive, and offensive abilities
 
 ### **Enemy AI and Spawning Logic**  
-  - Designed enemy AI to follow preset attack patterns, adjusting difficulty with each wave.  
+  - Designed enemy AI to randomly select targets and attacks, adjusting difficulty with each wave.  
   - Managed monster spawning to create escalating difficulty, ensuring a challenging progression throughout the game.  
 
-### **Resource Management System**  
-  - Coded a shared resource system, where shield energy is the only resource, requiring players to balance shield usage, attacks, and abilities.  
-  - Adjusted resource generation and consumption rates to create a balanced gameplay loop.  
-
 ### **User Interface and Feedback**  
-  - Created dynamic UI elements to display health, shield energy, and resource stats.  
+  - Created dynamic UI elements to display health, status conditions, damage modifiers, and move descriptions.  
   - Integrated sound effects for combat, shield activation, and monster attacks, providing clear player feedback.  
 
 ### **Audio and Visuals**  
   - Added immersive background music and sound effects for hero actions, enemy attacks, and level transitions.  
-  - Applied visual effects to indicate shield activation, character changes, and health/damage states.  
+  - Integrated animations to indicate shield activation, character changes, and health/damage states.  
 
 ---
 
@@ -44,13 +35,6 @@
   - **Issue**: Characters were switching abruptly without proper animations.  
     - **Solution**: Used coroutines and animation triggers to seamlessly transition between characters with smooth animations.  
 
-### **Pathfinding Issues**  
-  - **Issue**: Monsters were getting stuck or not following the correct paths.  
-    - **Solution**: Adjusted pathfinding algorithms and added dynamic obstacle handling to ensure smooth enemy movement.
-
-### **Shield Energy Management**  
-  - **Issue**: The shield energy consumption was either too fast or too slow, creating an imbalance.  
-    - **Solution**: Fine-tuned the shield's energy drain rate and regeneration to create a satisfying resource management loop.
 
 ### **Enemy Difficulty Balance**  
   - **Issue**: The game became too easy or too difficult based on enemy spawning rates.  

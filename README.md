@@ -3,10 +3,10 @@
 *MONSTERS Theme | Limitation: Everything is Alive | February 13-16, 2025*
 
 ## Overview  
-**Unlikely Heroes** challenges the turn based combat genre by letting players embody different heroes, each with unique abilities, as they defend against waves of monsters. 
+Unlikely Heroes challenges the turn based combat genre by letting players embody different heroes, each with unique abilities, as they defend against waves of monsters. 
 ---
 
-## Key Contributions as a Gameplay Engineer  
+## Key Contributions as a Gameplay Programmer  
 
 ### **Character Selection and Switching**  
   - Developed a character rotation system, allowing players to switch between heroes (bunny, pink, drag, wiz) with unique abilities and appearance.  
